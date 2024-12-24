@@ -1,26 +1,26 @@
-# Microserviço de Usuário
+# User Microservice
 
-Bem-vindo ao **Microserviço de Usuário**, uma solução robusta e escalável, projetada para fornecer uma gestão eficiente e completa das informações de usuários. Desenvolvido com **Nest.js** e **PostgreSQL**, este microserviço oferece uma base sólida e confiável para operações fundamentais, com ênfase em escalabilidade, flexibilidade e segurança.
+Welcome to the **User Microservice**, a robust and scalable solution designed to provide efficient and comprehensive management of user information. Developed with **Nest.js** and **PostgreSQL**, this microservice offers a solid and reliable foundation for core operations, with an emphasis on scalability, flexibility, and security.
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Technologies Used
 
-- **Nest.js**: Framework moderno baseado em Node.js, com arquitetura modular e orientada a serviços. Oferece alta escalabilidade, facilidade de manutenção e desenvolvimento rápido.
-- **PostgreSQL**: Sistema de gerenciamento de banco de dados relacional altamente confiável, escolhido por sua robustez e capacidade de escalabilidade para grandes volumes de dados.
+- **Nest.js**: A modern framework built on Node.js, with a modular and service-oriented architecture. It offers high scalability, easy maintenance, and rapid development.
+- **PostgreSQL**: A highly reliable relational database management system, chosen for its robustness and scalability to handle large data volumes.
 
-## 🔑 Funcionalidades Principais
+## 🔑 Key Features
 
-O Microserviço de Usuário oferece as seguintes funcionalidades essenciais:
+The User Microservice offers the following essential features:
 
-- **Criação de Usuários**: Cadastro de novos usuários com uma interface intuitiva e eficiente.
-- **Visualização de Usuários**: Exibição clara e organizada das informações dos usuários, facilitando a consulta e o gerenciamento.
-- **Atualização de Dados de Usuários**: Capacidade de atualizar informações de usuários de maneira ágil e sem impacto no desempenho.
-- **Exclusão de Usuários**: Remoção segura de usuários, garantindo integridade e confiabilidade no banco de dados.
+- **User Creation**: Register new users with an intuitive and efficient interface.
+- **User View**: Clear and organized display of user information, making it easy to query and manage.
+- **User Data Update**: Ability to update user information quickly and without performance impact.
+- **User Deletion**: Secure removal of users, ensuring database integrity and reliability.
 
-## 🚀 Vantagens e Diferenciais
+## 🚀 Advantages and Differentiators
 
-Este microserviço se destaca por:
+This microservice stands out for:
 
-- **Escalabilidade**: Estruturado para suportar crescimento, mantendo um desempenho robusto mesmo em condições de alta demanda.
-- **Flexibilidade**: Arquitetura adaptável que facilita a expansão e a integração de novos recursos conforme as necessidades do projeto.
-- **Segurança**: Implementação de práticas de segurança avançadas, como criptografia de dados e autenticação robusta, para proteger as informações dos usuários.
-- **Documentação Completa**: Fornecemos documentação detalhada que facilita a integração e a adaptação do microserviço em diferentes ambientes e sistemas.
+- **Scalability**: Structured to support growth while maintaining robust performance, even under high demand conditions.
+- **Flexibility**: An adaptable architecture that makes it easy to expand and integrate new features as the project evolves.
+- **Security**: Implementation of advanced security practices, such as data encryption and robust authentication, to protect user information.
+- **Comprehensive Documentation**: We provide detailed documentation that facilitates integration and adaptation of the microservice into different environments and systems.
